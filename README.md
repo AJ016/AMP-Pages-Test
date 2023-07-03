@@ -2,19 +2,7 @@
 
 This folder contains the source code for a Google I/O 2016 codelab.
 
-<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
-<amp-analytics type="gtag" data-credentials="include">
-<script type="application/json">
-{
-  "vars" : {
-    "gtag_id": "G-97WL7NM5GW",
-    "config" : {
-      "G-97WL7NM5GW": { "groups": "default" }
-    }
-  }
-}
-</script>
-</amp-analytics>
+
 
 ### License
 
