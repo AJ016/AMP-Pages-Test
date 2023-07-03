@@ -1,4 +1,16 @@
-// Copyright 2016 Google Inc.
+<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+<amp-analytics type="gtag" data-credentials="include">
+<script type="application/json">
+{
+  "vars" : {
+    "config" : {
+      "G-97WL7NM5GW": { "groups": "default" },
+      "<GA_MEASUREMENT_ID_NEW>": { "groups": "default" }
+    }
+  }
+}
+</script>
+</amp-analytics>// Copyright 2016 Google Inc.
 // 
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
