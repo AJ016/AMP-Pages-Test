@@ -3,9 +3,9 @@
 <script type="application/json">
 {
   "vars" : {
+    "gtag_id": "G-97WL7NM5GW",
     "config" : {
-      "G-97WL7NM5GW": { "groups": "default" },
-      "<GA_MEASUREMENT_ID_NEW>": { "groups": "default" }
+      "G-97WL7NM5GW": { "groups": "default" }
     }
   }
 }
